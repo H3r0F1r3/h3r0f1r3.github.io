@@ -3,3 +3,6 @@ body {
     display: grid;
     grid-template-columns
 }
+p {
+    color: red !important;
+}
